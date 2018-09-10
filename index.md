@@ -1,3 +1,6 @@
+## Blog Posts
+[Bad Writer Blog Post](./2018-09-09-bad-writer.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lemonscented/creative-approaches-blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
