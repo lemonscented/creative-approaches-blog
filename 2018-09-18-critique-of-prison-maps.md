@@ -1,7 +1,7 @@
 ---
 title: Critique of Prison Maps
 ---
-## Bad Writer
+## Critique of Prison Maps
 by Christian Jimenez
 
 The Prison Map, created by Josh Begley, tries to visualize mass incarceration in the United States of America. The piece tries to overwhelm the viewer by presenting hundreds of google satellite images of prisons all around the states. Most likely trying to visualize why the United States is the prison capital of the world and how we have the most prisoners per capita. The way Begley decides to overwhelm the display with the images really helps the idea that there are a numerous amount prisons in the United State, and helps the viewer understand the layouts of the prisons. However, while the number of prisons is impressive, the piece fails to really appeal to me. The piece itself lacks an emotional element allowing me to care about what the artist is doing and understand what they want to convey.
