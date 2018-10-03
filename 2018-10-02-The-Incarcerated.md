@@ -20,3 +20,5 @@ For this project, I wanted to keep Josh Begley’s style by sticking to the grid
 While mugshots are in the public record, finding an easily scrapable source was a challenge. The way I ended up collecting my data was through Mugshots.com. This website contains a large database of mugshots that can be easily accessed by the public. The database was kept up to date by the curators of the mugshots and removed anyone that was not convicted of a crime. I used an online image scraper to scrape the sight and gathered mugshot. While the criminal justice system has millions of mugshots, due to the time constraints and resource constraints of this project I was only to gather around 1500. These 1500 mugshots are all gathered from the counties around Olin College of Engineering.
 
 While the number of mugshots I collect is nowhere near the amount of people in the criminal justice system, hopefully it can still do its purpose in bringing a face to the people inside.
+
+Here is the link to the full project: ![a relative link](https://image.ibb.co/eW8M8e/The_Incarcerated.jpg).
