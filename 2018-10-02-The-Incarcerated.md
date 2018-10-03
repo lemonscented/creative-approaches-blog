@@ -21,4 +21,4 @@ While mugshots are in the public record, finding an easily scrapable source was 
 
 While the number of mugshots I collect is nowhere near the amount of people in the criminal justice system, hopefully it can still do its purpose in bringing a face to the people inside.
 
-Here is the link to the full project: ![Project](The_Incarcerated.jpg)
+Here is the link to the full project: ![link text](https://image.ibb.co/eW8M8e/The_Incarcerated.jpg)
